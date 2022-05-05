@@ -1,0 +1,20 @@
+무너진 도시 (배경으로 쓰면 좋을 듯 하여..)
+https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459
+총1 (1인칭 인듯? 근데 그냥 권총 느낌)
+https://assetstore.unity.com/packages/templates/systems/low-poly-shooter-pack-free-sample-144839
+총2 (이게 더 이쁨)
+https://assetstore.unity.com/packages/templates/fps-microgame-156015
+비행기? (쓸 지는 모르겠지만 이뻐서)
+https://assetstore.unity.com/packages/3d/vehicles/space/free-sf-fighter-11711
+UI (이것도 이뻐서..SF느낌으로 한다면 잘 어울릴지도..)
+https://assetstore.unity.com/packages/essentials/ui-samples-25468
+Skybox
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+게이지 바 (경험치 쌓이는것처럼 적 죽이면 게이지 바 올라가게 해도 좋을 듯! 게이지바 꽉 차면 특별 공격)
+https://assetstore.unity.com/packages/2d/gui/icons/beautiful-progress-bar-free-194904
+중세 스켈레톤? (적)
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/lowpoly-medieval-skeleton-free-pack-181883
+미사일 (특별 탄약 같은 걸로 쓰면 좋을 듯 하여,,)
+https://assetstore.unity.com/packages/3d/props/weapons/free-missile-72692
+기름통 (지상에 두고 몇번 맞추면 터지게)
+https://assetstore.unity.com/packages/3d/props/free-pbr-barrel-108702
